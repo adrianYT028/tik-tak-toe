@@ -89,7 +89,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Kartik Bhat**
-- GitHub: [@kartik-bhat](https://github.com/kartik-bhat)
+- GitHub: [@kartik-bhat](https://github.com/adrianYT028)
 
 ## 🎉 Acknowledgments
 
